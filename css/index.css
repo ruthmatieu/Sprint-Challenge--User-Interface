@@ -101,8 +101,7 @@ header nav .nav-links {
 
 .top-content .text-container {
     width: 48%;
-    padding: 0 1%;
-    padding-bottom: 20px;
+    padding: 3% 1% 20px 1%;
 }
 
 .middle-content {
@@ -130,6 +129,46 @@ header nav .nav-links {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.middle-content .boxes .box-1 {
+	background-color: teal;
+}
+
+.middle-content .boxes .box-2 {
+	background-color: gold;
+}
+
+.middle-content .boxes .box-3 {
+	background-color: cadetblue;
+}
+
+.middle-content .boxes .box-4 {
+	background-color: coral;
+}
+
+.middle-content .boxes .box-5 {
+	background-color: crimson;
+}
+
+.middle-content .boxes .box-6 {
+	background-color: forestgreen;
+}
+
+.middle-content .boxes .box-7 {
+	background-color: darkorchid;
+}
+
+.middle-content .boxes .box-8 {
+	background-color: hotpink;
+}
+
+.middle-content .boxes .box-9 {
+	background-color: indigo;
+}
+
+.middle-content .boxes .box-10 {
+	background-color: dodgerblue;
 }
 
 .bottom-content {
