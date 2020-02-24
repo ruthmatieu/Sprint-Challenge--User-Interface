@@ -105,6 +105,9 @@ header nav .nav-links {
   border-bottom: 1px dashed black;
 }
 
+.bottom-section {
+  padding: 2% 0 4% 0;
+}
 footer {
   width: 100%;
   background: black;
